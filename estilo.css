@@ -1,0 +1,39 @@
+body {
+    background: burlywood;
+    font: italic 16pt arial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    color:black;
+    text-align: center;
+
+
+}
+section {
+    background: cornsilk;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(51, 47, 47);
+
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+    font: normal 15pt arial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    color:black;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+img {
+    width: 100%;
+}
